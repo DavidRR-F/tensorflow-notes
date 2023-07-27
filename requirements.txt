@@ -1,5 +1,6 @@
 tensorflow
 matplotlib
 pandas
+scikit-learn
 pydot
 graphviz
